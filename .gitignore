@@ -1,0 +1,10 @@
+# Binaries
+safeshell
+*.exe
+*.test
+
+# Runtime Directories
+workspace/
+snapshots/
+tmp/
+evidence/
